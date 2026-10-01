@@ -3,7 +3,6 @@ name: 'Kumar Aditya'
 slug: 'kumar-aditya'
 title: 'MLOps Engineer'
 bio: 'CS (AI & ML) undergrad and MLOps engineer building monitored, containerized ML and RAG systems on Azure and AWS, with Terraform and CI/CD.'
-avatar: '/images/experts/kumar-aditya.jpg'
 specialties:
   - MLOps
   - Docker
